@@ -58,7 +58,7 @@ health inequality signal
 ---
 
 ## 📊 Excel Analysis Summary
-![10 Year Redemption Rate Trend](images/excel_analysis.png)
+![10 Year Redemption Rate Trend](excel/summary_analysis.png)
 
 ## ⚠️ Assumptions & Limitations
 - Cost estimate uses NHS National Schedule 2023/24 reference cost 
