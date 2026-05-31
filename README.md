@@ -57,6 +57,9 @@ health inequality signal
 
 ---
 
+## 📊 Excel Analysis Summary
+![10 Year Redemption Rate Trend](images/excel_analysis.png)
+
 ## ⚠️ Assumptions & Limitations
 - Cost estimate uses NHS National Schedule 2023/24 reference cost 
 of £2,800 per emergency readmission
