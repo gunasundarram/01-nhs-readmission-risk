@@ -1,7 +1,7 @@
 # 🏥 NHS Weekend Admissions — 30-Day Readmission Risk Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Excel](https://img.shields.io/badge/Analysis-Google%20Sheets-green)
+![Excel](https://img.shields.io/badge/Analysis-Excel-green)
 ![Tableau](https://img.shields.io/badge/Dashboard-Tableau%20Public-orange)
 ![Domain](https://img.shields.io/badge/Domain-Healthcare-red)
 
@@ -39,7 +39,7 @@ health inequality signal
 | Layer | Tool | Purpose |
 |-------|------|---------|
 | Data extraction | PostgreSQL + pgAdmin | 5 analytical SQL queries |
-| Analysis | Google Sheets | Cost model & summary |
+| Analysis | Excel | Cost model & summary |
 | Visualisation | Tableau Public | 4-visual interactive dashboard |
 | Data source | NHS Digital Compendium I02040/I02041 | 155,573 provider records |
 
