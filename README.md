@@ -1,4 +1,4 @@
-# 🏥 NHS Weekend Admissions — 30-Day Readmission Risk Analysis
+# 🏥 NHS 30-Day Readmission Risk Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
 ![Excel](https://img.shields.io/badge/Analysis-Excel-green)
@@ -21,8 +21,8 @@ annual cost of closing the top 3 gaps?
 ## 💡 Key Findings
 
 - 🔴 **Midlands Partnership NHS Foundation Trust** has the highest 
-readmission rate in England at **25.4%** — nearly double the national 
-average of 14.7%
+readmission rate in England at **25.4%** — about 1.7 times the
+national average of 14.7%
 - 📈 **Barking, Havering & Redbridge** has deteriorated consistently 
 over 10 years from 12.7% (2014) to 18.8% (2024)
 - 💷 Closing the gap at the **top 3 trusts alone would save an estimated 
